@@ -1,0 +1,8 @@
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\classes\debug
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-254bc15bd0a44d475e9692302e94234fd37ddcde.jar
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-4d24ea49781ca2b1b2c7fd839ec4fd18e92def10.jar
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-917d9cd275819eeb77fe5b5c6246c9b5c401a93c.jar
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\pre-dexed\debug\classes-da3dcd55d76942b630019ea5460bd2de86fdc36c.jar
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\pre-dexed\debug\Parse-1.8.1-74c1942cbe7f912a4ca9e3ace7f6eea912ca369c.jar
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\pre-dexed\debug\classes-3e9d55f632eda7fb89e3bad17c20aa0df4313876.jar
+C:\Users\acrox_000\AndroidstudioProjects\ChatterBox\app\build\intermediates\pre-dexed\debug\classes-dd9fed39413af29b3d7710426613d7cba5df353a.jar
